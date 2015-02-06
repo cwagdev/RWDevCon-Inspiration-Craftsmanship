@@ -57,7 +57,7 @@ noun, plural craftsmen.
 
 #Story
 
-^ I want to tell a friend about the first time that I recall noticing craftsmanship with regards to computers. 
+^ I want to tell a story about the first time that I recall noticing craftsmanship with regards to computers. 
 
 ---
 
@@ -145,7 +145,7 @@ noun, plural craftsmen.
 
 #[fit]Inspire
 
-^ Today I am here to inspire you all to (or continue to) practice and exude craftsmanship. 
+^ Today I am here to inspire you all to start or continue to practice and exude craftsmanship. 
 
 ^ In almost every case, when we start a new project we all aspire to "do things the right way" or "fully unit test" or "... just not *that* again". 
 
@@ -188,13 +188,13 @@ if user_input {
 *&*(!^@!@%^&*!@&!*(&@!&*^%@^&*(!@
 ```
 
-^ As far as they know, the code is a bunch of incoherent symbols and squiggly lines. I would argue that this is the driving factor for the level of apathy I've witnessed when it comes to writing beautiful code. 
+^ As far as they know, the code is a bunch of incoherent symbols and squiggly lines. I would argue that *this* is the driving factor for the level of apathy I've witnessed when it comes to writing beautiful code. 
 
 ---
 
 ![fit](Images/steve_jobs_cover.png)
 
-^ There was a biography that came out about five years ago called Steve Jobs. I am sure most of you are familiar with Steve.
+^ There was a biography that came out about four years ago called Steve Jobs. I am sure most of you are familiar with Steve.
 
 ^ He had an unwavering stance on quality and craftsmanship. In the biography he attributes this to his adoptive father. 
 
@@ -203,7 +203,7 @@ if user_input {
 > He loved doing things right. He even cared about the look of the parts you couldn’t see.
 -- Steve Jobs, speaking of his father
 
-^ The parts you couldn't see... Sounds like our jobs right? We are constantly working on the parts that no one sees. The people that built that Alienware computer were working on parts that *most* people would never see. 
+^ The parts you couldn't see... Sounds like our jobs right? We are constantly working on the parts that no one sees. The people that built that Alienware computer were working on parts that **most** people would never see. 
 
 ---
 
@@ -219,7 +219,7 @@ if user_input {
 
 #[fit]AMPLIFIED
 
-^ That energy is **amplified** on the parts that they will see. Your pride for the resulting product is also amplified. You will be excited to show people. You will be confident in what you've done. 
+^ That energy is amplified on the parts that they **will** see. Your pride for the resulting product is also amplified. You will be excited to show people **and** you will be confident in what you've done. 
 
 ---
 
@@ -296,17 +296,23 @@ for (NSInteger i = 0; i < 3; i++) {
 
 ---
 
+![fit](Images/why_meme.png)
+
+^ Now, you may complain "there's no way I have time to make it right and make it fast with these crazy deadlines given to me by my boss!" Or you might say "if I spend tons of extra time, it will take forever to complete my app - and time is money!"
+
+^ I get it, I've been there, we all have.
+
+---
+
 # [fit]Limits
 # Expectations
 # [fit] Awareness
 
-^ Now, you may complain "there's no way I have time to make it right and make it fast with these crazy deadlines given to me by my boss!" Or you might say "if I spend tons of extra time, it will take forever to complete my app - and time is money!"
-
-^ I get it, I've been there, we all have. Craftsmanship is not just about creating great things. It is about knowing your craft and its limits so that you clearly understand what can and cannot be done. 
+^ Craftsmanship is not just about creating great things. It is about knowing your craft and its limits so that you clearly understand what can and cannot be done. 
 
 ^ Setting expectations with yourself, your peers, your boss and your customer or client is a part of the craft. No one is going to be happy when something goes out the door half-baked and falling on its face. 
 
-^ Be clear with everyone involved what can and cannot be achieved. If anything changes during the project, make everyone aware as soon as possible. 
+^ Be clear with everyone involved about what can and cannot be achieved. If anything changes during the project, make everyone aware as soon as possible. 
 
 ---
 
@@ -351,21 +357,17 @@ for (NSInteger i = 0; i < 3; i++) {
 
 ^ The craft beers are typically 2-4 times as expensive as their mass produced competitors. 
 
-^ People appreciate craftsmanship. People pay a premium for craftsmanship. 
+^ People appreciate craftsmanship. People pay a premium for craftsmanship. So let's think about this for a moment, what might a world of craftsmanship look like?
 
 --- 
 
-# [fit] Imagine
-#GitHub.com
-# [fit] Fully Documented
+![fit 100%](Images/github_logo.png)
 
 ^ Now consider every library on GitHub that has reached it's self proclaimed version 1.0. Imagine a world where all of those libraries are fully unit tested. A world where 90% of their methods are less than 15 lines of code, every public API it has is well documented, and it has a clear "Getting Started" README and tutorial.
 
 ---
 
-# [fit] Imagine
-## StackOverflow.com
-#[fit] High Quality
+![fit 200	%](Images/so_logo.jpg)
 
 ^ Imagine a world where the difficult questions on Stack Overflow are actually answered rather than the simple ones being cherry picked by point seekers. 
 
@@ -386,7 +388,7 @@ $ sh run.sh
 
 ^ Imagine a world where every developer on the team respects the style guide and consciously follows it.
 
-^ Imagine a world where craftsman programmers are the norm, appreciated, and paid well by their employers. 
+^ Imagine a world where craftsman programmers are the norm, appreciated, paid well by their employers or can survive the App Store. 
 
 ^ This is good world, I like this world and I think you will too. 
 
@@ -396,7 +398,9 @@ $ sh run.sh
 
 ^ Well crafted things are often considered a luxury, and I'll agree with that. What I won't agree with however is that shoddy software is acceptable. Prototypes... fine I won't argue there. Proving a point? Again that's fine, hack away. But when you are shipping products that people depend on, give them your best. 
 
-^ You may be working on some products that have short lifespan or a small audience and it may seem okay to cut corners. But realize that anytime you do anything, you're building up tolerance and creating habits. You've cut that corner 5 times before and nothing went wrong, so why not continue doing so?
+^ I would wager that the main reason people are apprehensive to buy apps from the App Store is that they are not confident in the developer or company behind the app. They don't know if what they are getting has been well crafted. Maybe we can change that perception?
+
+^ You may be working on some products that have a short lifespan or a small audience and it may seem okay to cut corners. But realize that anytime you do anything, you're building up tolerance and creating habits. You've cut that corner 5 times before and nothing went wrong, so why not continue doing so?
 
 ---
 
